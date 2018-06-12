@@ -165,7 +165,6 @@
                             <constraint firstItem="Dkn-7g-Hcs" firstAttribute="trailing" secondItem="wMs-Hg-4Ul" secondAttribute="trailing" constant="16" id="IfL-IX-GW5"/>
                             <constraint firstItem="wMs-Hg-4Ul" firstAttribute="top" secondItem="Dkn-7g-Hcs" secondAttribute="top" id="Jcb-5f-cHv"/>
                             <constraint firstItem="wMs-Hg-4Ul" firstAttribute="leading" secondItem="Dkn-7g-Hcs" secondAttribute="leading" constant="16" id="Lv5-z3-AQw"/>
-                            <constraint firstItem="dFW-Ic-aJ4" firstAttribute="centerX" secondItem="Dkn-7g-Hcs" secondAttribute="centerX" id="ORb-fY-NtD"/>
                             <constraint firstItem="Dkn-7g-Hcs" firstAttribute="bottom" secondItem="wMs-Hg-4Ul" secondAttribute="bottom" constant="16" id="X6m-oo-izN"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="Dkn-7g-Hcs"/>
